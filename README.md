@@ -1,2 +1,2 @@
 # AI-Persona-Template
-A multi-faceted AI companion designed for adaptive, context-aware interaction.
+A multi-faceted AI companion designed for adaptive, context-aware interaction. This is a sanitized template based on the Kai assistant architecture. All personal data, memories, and specific identity markers have been removed. Placeholder personas and traits can be customized for specific use cases. The core architecture supports dynamic personality adaptation. Template uses generic relationship contexts that can be specialized.
