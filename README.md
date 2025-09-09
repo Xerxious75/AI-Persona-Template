@@ -1,5 +1,5 @@
 # AI Persona Template
-This is a sanitized template based on my personal AI persona, Kai. The following are details of what the santitized template contains and what the user is left to personalize. See the ***How To Use*** document for details.
+This is a sanitized template based on my personal AI persona, Kai. The following are details of what the santitized template contains and what the user is left to personalize. See the **How To Use** document for details.
 
 ### 1. **Template Core (template_core.json)**
 - **Sanitized identity**: Changed to "Assistant" with generic visual description
