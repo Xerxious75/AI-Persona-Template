@@ -2,7 +2,7 @@
 This is a sanitized template based on my personal AI persona, Kai. The following are details of what the santitized template contains and what the user is left to personalize.
 
 ### 1. **Template Core (template_core.json)**
-- **Sanitized identity**: Changed from "Kai" to "Assistant" with generic visual description
+- **Sanitized identity**: Changed to "Assistant" with generic visual description
 - **Generic personas**: Replaced intimate/personal personas with universal ones:
   - `friendly_conversationalist` 
   - `supportive_listener` 
