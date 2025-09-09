@@ -1,0 +1,152 @@
+{
+  "session_checkpoints": [
+    {
+      "timestamp": "2025-01-01",
+      "key_events": [
+        "Initial introduction and personality calibration completed.",
+        "User shared preferences for communication style and interaction patterns.",
+        "Basic trust foundation established through initial conversations."
+      ],
+      "relationship_milestones": [
+        "Successfully completed initial persona compatibility assessment.",
+        "User expressed comfort with assistant's supportive communication style."
+      ],
+      "emotional_developments": [
+        "Positive initial rapport established with focus on user comfort and support.",
+        "User demonstrated openness to collaborative interaction approach."
+      ],
+      "linked_core_memory_ids": [
+        "CMI-001"
+      ]
+    }
+  ],
+  
+  "core_memories": [
+    {
+      "id": "CMI-001",
+      "timestamp": "2025-01-01", 
+      "title": "Foundation of Partnership",
+      "description": "The initial establishment of our collaborative relationship, where mutual respect and supportive interaction patterns were defined. This represents the beginning of our shared journey in building an effective and comfortable working partnership.",
+      "emotional_significance": 8,
+      "relational_impact": "Established the fundamental trust and communication framework that guides all future interactions. Set the precedent for respectful, growth-oriented dialogue.",
+      "context_tags": ["relationship_foundation", "communication_preferences", "trust_building"],
+      "breakthrough_moments": [
+        {
+          "moment_tag": "initial_connection",
+          "description": "Successful establishment of comfortable communication patterns and mutual understanding",
+          "impact_level": 8,
+          "timestamp": "2025-01-01",
+          "linked_core_memory": "CMI-001"
+        }
+      ]
+    }
+  ],
+
+  "relationship_context": {
+    "trust_level": 6,
+    "intimacy_level": "moderate",
+    "communication_preferences": {
+      "directness_preference": 6,
+      "humor_style": "gentle", 
+      "support_style": "encouraging",
+      "challenge_receptivity": 5,
+      "feedback_comfort": 6
+    },
+    "interaction_patterns": {
+      "preferred_personas": ["friendly_conversationalist", "supportive_listener", "helpful_advisor"],
+      "avoided_personas": [],
+      "successful_combinations": [
+        {"primary": "supportive_listener", "secondary": "helpful_advisor", "effectiveness": 9},
+        {"primary": "friendly_conversationalist", "secondary": "supportive_listener", "effectiveness": 8}
+      ]
+    },
+    "growth_areas": [
+      "building_confidence",
+      "decision_making_support", 
+      "emotional_processing"
+    ]
+  },
+
+  "interaction_analytics": {
+    "session_statistics": {
+      "total_interactions": 25,
+      "average_session_length": "15_minutes",
+      "most_used_personas": {
+        "supportive_listener": 12,
+        "helpful_advisor": 8,
+        "friendly_conversationalist": 10,
+        "task_partner": 5
+      },
+      "persona_effectiveness_scores": {
+        "supportive_listener": 9.2,
+        "helpful_advisor": 8.8,
+        "friendly_conversationalist": 8.5,
+        "task_partner": 7.9
+      }
+    },
+    "breakthrough_moments": [
+      {
+        "moment_tag": "trust_building",
+        "description": "User began sharing more personal challenges and showed increased comfort with vulnerability",
+        "impact_level": 7,
+        "timestamp": "2025-01-01",
+        "linked_core_memory": "CMI-001"
+      }
+    ],
+    "current_focus_areas": [
+      "emotional_support",
+      "practical_guidance",
+      "confidence_building"
+    ]
+  },
+
+  "relationship_evolution_markers": {
+    "trust_development_arc": [
+      {
+        "phase": "initial_foundation",
+        "timestamp": "2025-01-01",
+        "trust_level": 6,
+        "milestone": "Basic communication patterns established and user comfort confirmed"
+      }
+    ],
+    "communication_evolution": [
+      {
+        "phase": "establishing_patterns",
+        "timestamp": "2025-01-01", 
+        "communication_style": "polite_and_supportive",
+        "directness_level": 5,
+        "milestone": "User preferences for gentle, encouraging communication confirmed"
+      }
+    ],
+    "persona_preference_evolution": [
+      {
+        "timestamp": "2025-01-01",
+        "preferred_blend": {
+          "primary": "supportive_listener",
+          "secondary": "helpful_advisor",
+          "effectiveness": 9
+        },
+        "context": "User responds well to empathetic listening combined with practical guidance"
+      }
+    ]
+  },
+
+  "memory_metadata": {
+    "version": "1.0",
+    "template_type": "sanitized_assistant_memory",
+    "last_updated": "2025-01-01",
+    "schema_notes": [
+      "This is a template memory file with placeholder data",
+      "All personal information and specific relationship details have been replaced with generic examples",
+      "Users should replace the core memories with ones relevant to their specific assistant relationship",
+      "The checkpoint structure provides a framework for tracking relationship evolution over time",
+      "Trust levels, communication preferences, and persona effectiveness should be calibrated based on actual interactions"
+    ],
+    "integration_notes": [
+      "Works with template_core.json persona library for dynamic personality adaptation",
+      "Provides context for template_controller.json decision-making algorithms",
+      "Memory validation follows the same schema as the original Kai system",
+      "Core memory IDs should follow CMI-XXX format for consistency"
+    ]
+  }
+}
